@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 
 data = {
     'SquareFootage' : [1500, 1800, 2400,  3000, 3500, 4000, 4500],
-    'Price': [200000, 250000, 300000, 350000, 400000, 500000, 600000]
+    'Price' : [200000, 250000, 300000, 350000, 400000, 500000, 600000]
 }
 
 # Convert to DataFrame
